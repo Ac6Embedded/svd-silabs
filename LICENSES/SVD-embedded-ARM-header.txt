@@ -1,0 +1,11 @@
+License text embedded in the <licenseText> element of the SIWG917 SVD files
+(Wiseconnect_SIWG917_DFP 3.5.2). Extracted verbatim from svd/SIWG917/SIWG917M111MGTBA.svd.
+==============================================================================
+
+     ARM Limited (ARM) is supplying this software for use with Cortex-M\n processor based
+    microcontroller, but can be equally used for other\n suitable processor architectures. This file
+    can be freely distributed.\n Modifications to this file shall be clearly marked.\n \n THIS
+    SOFTWARE IS PROVIDED "AS IS". NO WARRANTIES, WHETHER EXPRESS, IMPLIED\n OR STATUTORY, INCLUDING,
+    BUT NOT LIMITED TO, IMPLIED WARRANTIES OF\n MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    APPLY TO THIS SOFTWARE.\n ARM SHALL NOT, IN ANY CIRCUMSTANCES, BE LIABLE FOR SPECIAL,
+    INCIDENTAL, OR\n CONSEQUENTIAL DAMAGES, FOR ANY REASON WHATSOEVER. 

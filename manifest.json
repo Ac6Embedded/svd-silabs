@@ -1,0 +1,3461 @@
+{
+ "vendor": "Silicon Labs",
+ "generated": "2026-07-19",
+ "dedupe": {
+  "level": "die+opn",
+  "rule": "one SVD per escalated key (die key with trailing OPN digits stripped); other parts listed in also_covers"
+ },
+ "sources": [
+  {
+   "name": "GeckoPlatform_BGM13_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_BGM13_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "BGM13/BGM13P32F512GE.svd",
+    "BGM13/BGM13S32F512GN.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_BGM1_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_BGM1_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "BGM1/BGM111A256V2.svd",
+    "BGM1/BGM111E256V2.svd",
+    "BGM1/BGM113A256V2.svd",
+    "BGM1/BGM11S22F256GA.svd",
+    "BGM1/BGM121A256V2.svd",
+    "BGM1/BGM121N256V2.svd",
+    "BGM1/BGM123A256V2.svd",
+    "BGM1/BGM123N256V2.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_BGM21_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_BGM21_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "BGM21/BGM210LA22JIF.svd",
+    "BGM21/BGM210LA22JNF.svd",
+    "BGM21/BGM210P022JIA.svd",
+    "BGM21/BGM210P032JIA.svd",
+    "BGM21/BGM210PA22JIA.svd",
+    "BGM21/BGM210PA32JIA.svd",
+    "BGM21/BGM210PB22JIA.svd",
+    "BGM21/BGM210PB32JIA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_BGM22_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_BGM22_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "BGM22/BGM220PC22HNA.svd",
+    "BGM22/BGM220PC22WGA.svd",
+    "BGM22/BGM220SC12WGA.svd",
+    "BGM22/BGM220SC22HNA.svd",
+    "BGM22/BGM220SC22WGA.svd",
+    "BGM22/BGM220SC23HNA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_BGM24_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_BGM24_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "BGM24/BGM240PA22VNA.svd",
+    "BGM24/BGM240PA32VNA.svd",
+    "BGM24/BGM240PA32VNN.svd",
+    "BGM24/BGM240PB22VNA.svd",
+    "BGM24/BGM240PB32VNA.svd",
+    "BGM24/BGM240PB32VNN.svd",
+    "BGM24/BGM240SA22VNA.svd",
+    "BGM24/BGM240SB22VNA.svd",
+    "BGM24/BGM241SB22VNA.svd",
+    "BGM24/BGM241SD22VNA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_BGM26_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_BGM26_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "BGM26/BGM260PB22VNA.svd",
+    "BGM26/BGM260PB32VNA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_BGM27_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_BGM27_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "BGM27/BGM270SC22SNA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32GG11B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32GG11B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32GG11B/EFM32GG11B840F1024IQ64.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32GG12B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32GG12B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32GG12B/EFM32GG12B830F512IQ64.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32GG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32GG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32GG/EFM32GG995F512.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32G_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32G_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32G/EFM32G890F64.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32HG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32HG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32HG/EFM32HG350F64.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32JG12B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32JG12B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32JG12B/EFM32JG12B500F1024IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32JG1B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32JG1B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32JG1B/EFM32JG1B200F256IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32LG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32LG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32LG/EFM32LG995F64.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32PG12B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32PG12B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32PG12B/EFM32PG12B500F1024IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32PG1B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32PG1B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32PG1B/EFM32PG1B200F256IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32PG22_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32PG22_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFM32PG22/EFM32PG22C200F64IM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32PG23_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32PG23_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFM32PG23/EFM32PG23B310F64IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32PG26_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32PG26_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFM32PG26/EFM32PG26B501F3200IM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32PG28_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32PG28_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFM32PG28/EFM32PG28B310F1024IM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32TG11B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32TG11B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32TG11B/EFM32TG11B540F64IQ80.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32TG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32TG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32TG/EFM32TG842F8.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32WG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32WG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32WG/EFM32WG995F64.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFM32ZG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFM32ZG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFM32ZG/EFM32ZG222F8.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG12P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG12P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32BG12P/EFR32BG12P433F1024IM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG13P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG13P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32BG13P/EFR32BG13P733F512GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG1B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG1B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32BG1B/EFR32BG1B232F256IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG1P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG1P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32BG1P/EFR32BG1P333F256IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG1V_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG1V_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32BG1V/EFR32BG1V132F256IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG21_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG21_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32BG21/EFR32BG21A020F768IM32.svd",
+    "EFR32BG21/EFR32BG21B020F768IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG22_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG22_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32BG22/EFR32BG22C224F512IM40.svd",
+    "EFR32BG22/EFR32BG22E224F512IM40.svd",
+    "EFR32BG22/EFR32BG22L122F352GM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG24_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG24_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32BG24/EFR32BG24A620F1536IM40.svd",
+    "EFR32BG24/EFR32BG24B620F1536IM40.svd",
+    "EFR32BG24/EFR32BG24L210F768IM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG26_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG26_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32BG26/EFR32BG26B511F3200IM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG27_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG27_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32BG27/EFR32BG27C320F768IJ39.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32BG29_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32BG29_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32BG29/EFR32BG29B230F1024CM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG12P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG12P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32FG12P/EFR32FG12P433F1024GM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG13P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG13P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32FG13P/EFR32FG13P233F512GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG14P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG14P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32FG14P/EFR32FG14P233F256GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG14V_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG14V_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32FG14V/EFR32FG14V132F256GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG1P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG1P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32FG1P/EFR32FG1P133F64GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG1V_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG1V_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32FG1V/EFR32FG1V232F256GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG22_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG22_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32FG22/EFR32FG22C121F512GM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG23_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG23_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32FG23/EFR32FG23A021F512GM40.svd",
+    "EFR32FG23/EFR32FG23B021F512IM48.svd",
+    "EFR32FG23/EFR32FG23L020F128GM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG25_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG25_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32FG25/EFR32FG25A221F1920IM56.svd",
+    "EFR32FG25/EFR32FG25B222F1920IM56.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG28_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG28_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32FG28/EFR32FG28A122F1024GM68.svd",
+    "EFR32FG28/EFR32FG28B322F1024IM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32FG2D_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG2D_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32FG2D/EFR32FG2DA020F256IM48.svd",
+    "EFR32FG2D/EFR32FG2DB020F512IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG12P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG12P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32MG12P/EFR32MG12P433F1024IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG13P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG13P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32MG13P/EFR32MG13P832F512IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG14P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG14P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32MG14P/EFR32MG14P733F256IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG1B_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG1B_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32MG1B/EFR32MG1B732F256IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG1P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG1P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32MG1P/EFR32MG1P732F256IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG1V_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG1V_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32MG1V/EFR32MG1V132F256GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG21_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG21_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32MG21/EFR32MG21A020F768IM32.svd",
+    "EFR32MG21/EFR32MG21B020F768IM32.svd",
+    "EFR32MG21/RM21Z000F1024IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG22_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG22_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32MG22/EFR32MG22A224F512IM40.svd",
+    "EFR32MG22/EFR32MG22C224F512IM40.svd",
+    "EFR32MG22/EFR32MG22E224F512IM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG24_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG24_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32MG24/EFR32MG24A620F1536IM40.svd",
+    "EFR32MG24/EFR32MG24B610F1536IM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG26_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG26_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32MG26/EFR32MG26B611F2048IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG27_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG27_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32MG27/EFR32MG27C230F768IM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MG29_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG29_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32MG29/EFR32MG29B230F1024CM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32MR21_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MR21_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32MR21/EFR32MR21A020F512IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32SG23_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32SG23_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32SG23/EFR32SG23B020F512IM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32SG28_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32SG28_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32SG28/EFR32SG28B322F1024IM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32ZG13L_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32ZG13L_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32ZG13L/EFR32ZG13L231F512IM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32ZG13P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32ZG13P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32ZG13P/EFR32ZG13P531F512GM48.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32ZG13S_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32ZG13S_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32ZG13S/EFR32ZG13S231F512GM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32ZG14P_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32ZG14P_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EFR32ZG14P/EFR32ZG14P731F256GM32.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32ZG23_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32ZG23_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32ZG23/EFR32ZG23A020F512GM48.svd",
+    "EFR32ZG23/EFR32ZG23B021F512IM40.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EFR32ZG28_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32ZG28_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "EFR32ZG28/EFR32ZG28A122F1024GM68.svd",
+    "EFR32ZG28/EFR32ZG28B322F1024IM68.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EZR32HG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EZR32HG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EZR32HG/EZR32HG320F64R69.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EZR32LG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EZR32LG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EZR32LG/EZR32LG330F64R69.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_EZR32WG_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EZR32WG_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "EZR32WG/EZR32WG330F64R69.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_FGM23_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_FGM23_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "FGM23/FGM230SA27HGN.svd",
+    "FGM23/FGM230SB27HGN.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM12_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM12_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "MGM12/MGM12P32F1024GE.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM13_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM13_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "MGM13/MGM13P12F512GE.svd",
+    "MGM13/MGM13S12F512GN.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM1_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM1_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "MGM1/MGM111A256V2.svd",
+    "MGM1/MGM111E256V2.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM21_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM21_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "MGM21/MGM210L022JIF.svd",
+    "MGM21/MGM210L022JNF.svd",
+    "MGM21/MGM210LA22JIF.svd",
+    "MGM21/MGM210LA22JNF.svd",
+    "MGM21/MGM210P022JIA.svd",
+    "MGM21/MGM210P032JIA.svd",
+    "MGM21/MGM210PA22JIA.svd",
+    "MGM21/MGM210PA32JIA.svd",
+    "MGM21/MGM210PB22JIA.svd",
+    "MGM21/MGM210PB32JIA.svd",
+    "MGM21/MGM211LA02JNF.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM22_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM22_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "MGM22/MGM220PC22HNA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM24_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM24_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "MGM24/MGM240L022RNF.svd",
+    "MGM24/MGM240L022VIF.svd",
+    "MGM24/MGM240L022VNF.svd",
+    "MGM24/MGM240LA22UIF.svd",
+    "MGM24/MGM240LA22VIF.svd",
+    "MGM24/MGM240LD22VIF.svd",
+    "MGM24/MGM240PA22VNA.svd",
+    "MGM24/MGM240PA32VNA.svd",
+    "MGM24/MGM240PA32VNN.svd",
+    "MGM24/MGM240PB22VNA.svd",
+    "MGM24/MGM240PB32VNA.svd",
+    "MGM24/MGM240PB32VNN.svd",
+    "MGM24/MGM240SA22VNA.svd",
+    "MGM24/MGM240SB22VNA.svd",
+    "MGM24/MGM240SD22VNA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM26_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM26_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "MGM26/MGM260PB22VNA.svd",
+    "MGM26/MGM260PB32VNA.svd",
+    "MGM26/MGM260PB32VNN.svd",
+    "MGM26/MGM260PD22VNA.svd",
+    "MGM26/MGM260PD32VNA.svd",
+    "MGM26/MGM260PD32VNN.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_MGM27_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_MGM27_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "MGM27/MGM270SC22SNA.svd",
+    "MGM27/MGM270SC32SNA.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_SIBG301_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_SIBG301_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "SIBG301/SIBG301M104LGH.svd",
+    "SIBG301/SIBG301M104LGL.svd",
+    "SIBG301/SIBG301M104LIH.svd",
+    "SIBG301/SIBG301M104LIL.svd",
+    "SIBG301/SIBG301M114KGH.svd",
+    "SIBG301/SIBG301M114KIH.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_SIMG301_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_SIMG301_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "SIMG301/SIMG301M103LIH.svd",
+    "SIMG301/SIMG301M104LGH.svd",
+    "SIMG301/SIMG301M104LGL.svd",
+    "SIMG301/SIMG301M104LIH.svd",
+    "SIMG301/SIMG301M104LIL.svd",
+    "SIMG301/SIMG301M104XIL.svd",
+    "SIMG301/SIMG301M113WIH.svd",
+    "SIMG301/SIMG301M114KGH.svd",
+    "SIMG301/SIMG301M114KIH.svd",
+    "SIMG301/SIMG301M114LGH.svd",
+    "SIMG301/SIMG301M114LIH.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_WGM160_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_WGM160_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "WGM160/WGM160P022KGA3.svd",
+    "WGM160/WGM160P022KGN3.svd",
+    "WGM160/WGM160PX22KGA3.svd",
+    "WGM160/WGM160PX22KGN3.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_ZGM13_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_ZGM13_DFP.4.4.0.pack",
+   "version": "4.4.0",
+   "license": "MSLA (pack license); SVD files embed Zlib (SPDX)",
+   "files": [
+    "ZGM13/ZGM130S037HGN1.svd"
+   ]
+  },
+  {
+   "name": "GeckoPlatform_ZGM23_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_ZGM23_DFP.2025.12.1.pack",
+   "version": "2025.12.1",
+   "license": "MSLA (pack license); no license text inside SVD files",
+   "files": [
+    "ZGM23/ZGM230SA27HGN.svd",
+    "ZGM23/ZGM230SA27HNN.svd",
+    "ZGM23/ZGM230SB27HGN.svd",
+    "ZGM23/ZGM230SB27HNN.svd"
+   ]
+  },
+  {
+   "name": "Wiseconnect_SIWG917_DFP",
+   "url": "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.Wiseconnect_SIWG917_DFP.3.5.2.pack",
+   "version": "3.5.2",
+   "license": "MSLA (pack license); SVD files embed ARM freely-distributable notice",
+   "files": [
+    "SIWG917/SIWG917M111MGTBA.svd",
+    "SIWG917/SIWG917Y111MGABA.svd",
+    "SIWG917/SIWG917Y111MGNBA.svd"
+   ]
+  }
+ ],
+ "files": [
+  {
+   "path": "BGM1/BGM111A256V2.svd",
+   "device": "BGM111A256V2",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM1/BGM111E256V2.svd",
+   "device": "BGM111E256V2",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM1/BGM113A256V2.svd",
+   "device": "BGM113A256V2",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM1/BGM11S22F256GA.svd",
+   "device": "BGM11S22F256GA",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "BGM11S12F256GA"
+   ]
+  },
+  {
+   "path": "BGM1/BGM121A256V2.svd",
+   "device": "BGM121A256V2",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM1/BGM121N256V2.svd",
+   "device": "BGM121N256V2",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM1/BGM123A256V2.svd",
+   "device": "BGM123A256V2",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM1/BGM123N256V2.svd",
+   "device": "BGM123N256V2",
+   "family": "BGM1",
+   "source": "GeckoPlatform_BGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM13/BGM13P32F512GE.svd",
+   "device": "BGM13P32F512GE",
+   "family": "BGM13",
+   "source": "GeckoPlatform_BGM13_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "BGM13P22F512GA",
+    "BGM13P22F512GE",
+    "BGM13P32F512GA"
+   ]
+  },
+  {
+   "path": "BGM13/BGM13S32F512GN.svd",
+   "device": "BGM13S32F512GN",
+   "family": "BGM13",
+   "source": "GeckoPlatform_BGM13_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "BGM13S22F512GA",
+    "BGM13S22F512GN",
+    "BGM13S32F512GA"
+   ]
+  },
+  {
+   "path": "BGM21/BGM210LA22JIF.svd",
+   "device": "BGM210LA22JIF",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM21/BGM210LA22JNF.svd",
+   "device": "BGM210LA22JNF",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM21/BGM210P022JIA.svd",
+   "device": "BGM210P022JIA",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM21/BGM210P032JIA.svd",
+   "device": "BGM210P032JIA",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM21/BGM210PA22JIA.svd",
+   "device": "BGM210PA22JIA",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM21/BGM210PA32JIA.svd",
+   "device": "BGM210PA32JIA",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM21/BGM210PB22JIA.svd",
+   "device": "BGM210PB22JIA",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM21/BGM210PB32JIA.svd",
+   "device": "BGM210PB32JIA",
+   "family": "BGM21",
+   "source": "GeckoPlatform_BGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM22/BGM220PC22HNA.svd",
+   "device": "BGM220PC22HNA",
+   "family": "BGM22",
+   "source": "GeckoPlatform_BGM22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM22/BGM220PC22WGA.svd",
+   "device": "BGM220PC22WGA",
+   "family": "BGM22",
+   "source": "GeckoPlatform_BGM22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM22/BGM220SC12WGA.svd",
+   "device": "BGM220SC12WGA",
+   "family": "BGM22",
+   "source": "GeckoPlatform_BGM22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM22/BGM220SC22HNA.svd",
+   "device": "BGM220SC22HNA",
+   "family": "BGM22",
+   "source": "GeckoPlatform_BGM22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM22/BGM220SC22WGA.svd",
+   "device": "BGM220SC22WGA",
+   "family": "BGM22",
+   "source": "GeckoPlatform_BGM22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM22/BGM220SC23HNA.svd",
+   "device": "BGM220SC23HNA",
+   "family": "BGM22",
+   "source": "GeckoPlatform_BGM22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240PA22VNA.svd",
+   "device": "BGM240PA22VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240PA32VNA.svd",
+   "device": "BGM240PA32VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240PA32VNN.svd",
+   "device": "BGM240PA32VNN",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240PB22VNA.svd",
+   "device": "BGM240PB22VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240PB32VNA.svd",
+   "device": "BGM240PB32VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240PB32VNN.svd",
+   "device": "BGM240PB32VNN",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240SA22VNA.svd",
+   "device": "BGM240SA22VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM240SB22VNA.svd",
+   "device": "BGM240SB22VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM241SB22VNA.svd",
+   "device": "BGM241SB22VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM24/BGM241SD22VNA.svd",
+   "device": "BGM241SD22VNA",
+   "family": "BGM24",
+   "source": "GeckoPlatform_BGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM26/BGM260PB22VNA.svd",
+   "device": "BGM260PB22VNA",
+   "family": "BGM26",
+   "source": "GeckoPlatform_BGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM26/BGM260PB32VNA.svd",
+   "device": "BGM260PB32VNA",
+   "family": "BGM26",
+   "source": "GeckoPlatform_BGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "BGM27/BGM270SC22SNA.svd",
+   "device": "BGM270SC22SNA",
+   "family": "BGM27",
+   "source": "GeckoPlatform_BGM27_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "EFM32G/EFM32G890F64.svd",
+   "device": "EFM32G890F64",
+   "family": "EFM32G",
+   "source": "GeckoPlatform_EFM32G_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32G200F16",
+    "EFM32G200F32",
+    "EFM32G200F64",
+    "EFM32G210F128",
+    "EFM32G222F128",
+    "EFM32G222F32",
+    "EFM32G222F64",
+    "EFM32G230F128",
+    "EFM32G230F32",
+    "EFM32G230F64",
+    "EFM32G232F128",
+    "EFM32G232F32",
+    "EFM32G232F64",
+    "EFM32G280F128",
+    "EFM32G280F32",
+    "EFM32G280F64",
+    "EFM32G290F128",
+    "EFM32G290F32",
+    "EFM32G290F64",
+    "EFM32G800F128",
+    "EFM32G840F128",
+    "EFM32G840F32",
+    "EFM32G840F64",
+    "EFM32G842F128",
+    "EFM32G842F32",
+    "EFM32G842F64",
+    "EFM32G880F128",
+    "EFM32G880F32",
+    "EFM32G880F64",
+    "EFM32G890F128",
+    "EFM32G890F32"
+   ]
+  },
+  {
+   "path": "EFM32GG/EFM32GG995F512.svd",
+   "device": "EFM32GG995F512",
+   "family": "EFM32GG",
+   "source": "GeckoPlatform_EFM32GG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32GG230F1024",
+    "EFM32GG230F512",
+    "EFM32GG232F1024",
+    "EFM32GG232F512",
+    "EFM32GG280F1024",
+    "EFM32GG280F512",
+    "EFM32GG290F1024",
+    "EFM32GG290F512",
+    "EFM32GG295F1024",
+    "EFM32GG295F512",
+    "EFM32GG330F1024",
+    "EFM32GG330F512",
+    "EFM32GG332F1024",
+    "EFM32GG332F512",
+    "EFM32GG380F1024",
+    "EFM32GG380F512",
+    "EFM32GG390F1024",
+    "EFM32GG390F512",
+    "EFM32GG395F1024",
+    "EFM32GG395F512",
+    "EFM32GG840F1024",
+    "EFM32GG840F512",
+    "EFM32GG842F1024",
+    "EFM32GG842F512",
+    "EFM32GG880F1024",
+    "EFM32GG880F512",
+    "EFM32GG890F1024",
+    "EFM32GG890F512",
+    "EFM32GG895F1024",
+    "EFM32GG895F512",
+    "EFM32GG900F1024",
+    "EFM32GG900F512",
+    "EFM32GG940F1024",
+    "EFM32GG940F512",
+    "EFM32GG942F1024",
+    "EFM32GG942F512",
+    "EFM32GG980F1024",
+    "EFM32GG980F512",
+    "EFM32GG990F1024",
+    "EFM32GG990F512",
+    "EFM32GG995F1024"
+   ]
+  },
+  {
+   "path": "EFM32GG11B/EFM32GG11B840F1024IQ64.svd",
+   "device": "EFM32GG11B840F1024IQ64",
+   "family": "EFM32GG11B",
+   "source": "GeckoPlatform_EFM32GG11B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32GG11B110F2048GM64",
+    "EFM32GG11B110F2048GQ64",
+    "EFM32GG11B110F2048IM64",
+    "EFM32GG11B110F2048IQ64",
+    "EFM32GG11B120F2048GM64",
+    "EFM32GG11B120F2048GQ64",
+    "EFM32GG11B120F2048IM64",
+    "EFM32GG11B120F2048IQ64",
+    "EFM32GG11B310F2048GL112",
+    "EFM32GG11B310F2048GQ100",
+    "EFM32GG11B320F2048GL112",
+    "EFM32GG11B320F2048GQ100",
+    "EFM32GG11B420F2048GL112",
+    "EFM32GG11B420F2048GL120",
+    "EFM32GG11B420F2048GM64",
+    "EFM32GG11B420F2048GQ100",
+    "EFM32GG11B420F2048GQ64",
+    "EFM32GG11B420F2048IL112",
+    "EFM32GG11B420F2048IL120",
+    "EFM32GG11B420F2048IM64",
+    "EFM32GG11B420F2048IQ100",
+    "EFM32GG11B420F2048IQ64",
+    "EFM32GG11B510F2048GL120",
+    "EFM32GG11B510F2048GM64",
+    "EFM32GG11B510F2048GQ100",
+    "EFM32GG11B510F2048GQ64",
+    "EFM32GG11B510F2048IL120",
+    "EFM32GG11B510F2048IM64",
+    "EFM32GG11B510F2048IQ100",
+    "EFM32GG11B510F2048IQ64",
+    "EFM32GG11B520F2048GL120",
+    "EFM32GG11B520F2048GM64",
+    "EFM32GG11B520F2048GQ100",
+    "EFM32GG11B520F2048GQ64",
+    "EFM32GG11B520F2048IL120",
+    "EFM32GG11B520F2048IM64",
+    "EFM32GG11B520F2048IQ100",
+    "EFM32GG11B520F2048IQ64",
+    "EFM32GG11B820F2048GL120",
+    "EFM32GG11B820F2048GL152",
+    "EFM32GG11B820F2048GL192",
+    "EFM32GG11B820F2048GM64",
+    "EFM32GG11B820F2048GQ100",
+    "EFM32GG11B820F2048GQ64",
+    "EFM32GG11B820F2048IL120",
+    "EFM32GG11B820F2048IL152",
+    "EFM32GG11B820F2048IM64",
+    "EFM32GG11B820F2048IQ100",
+    "EFM32GG11B820F2048IQ64",
+    "EFM32GG11B840F1024GL120",
+    "EFM32GG11B840F1024GL152",
+    "EFM32GG11B840F1024GL192",
+    "EFM32GG11B840F1024GM64",
+    "EFM32GG11B840F1024GQ100",
+    "EFM32GG11B840F1024GQ64",
+    "EFM32GG11B840F1024IL120",
+    "EFM32GG11B840F1024IL152",
+    "EFM32GG11B840F1024IM64",
+    "EFM32GG11B840F1024IQ100"
+   ]
+  },
+  {
+   "path": "EFM32GG12B/EFM32GG12B830F512IQ64.svd",
+   "device": "EFM32GG12B830F512IQ64",
+   "family": "EFM32GG12B",
+   "source": "GeckoPlatform_EFM32GG12B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32GG12B110F1024GM64",
+    "EFM32GG12B110F1024GQ64",
+    "EFM32GG12B110F1024IM64",
+    "EFM32GG12B110F1024IQ64",
+    "EFM32GG12B130F512GM64",
+    "EFM32GG12B130F512GQ64",
+    "EFM32GG12B130F512IM64",
+    "EFM32GG12B130F512IQ64",
+    "EFM32GG12B310F1024GL112",
+    "EFM32GG12B310F1024GQ100",
+    "EFM32GG12B330F512GL112",
+    "EFM32GG12B330F512GQ100",
+    "EFM32GG12B390F1024GL112",
+    "EFM32GG12B390F512GL112",
+    "EFM32GG12B410F1024GL112",
+    "EFM32GG12B410F1024GL120",
+    "EFM32GG12B410F1024GM64",
+    "EFM32GG12B410F1024GQ100",
+    "EFM32GG12B410F1024GQ64",
+    "EFM32GG12B410F1024IL112",
+    "EFM32GG12B410F1024IL120",
+    "EFM32GG12B410F1024IM64",
+    "EFM32GG12B410F1024IQ100",
+    "EFM32GG12B410F1024IQ64",
+    "EFM32GG12B430F512GL112",
+    "EFM32GG12B430F512GL120",
+    "EFM32GG12B430F512GM64",
+    "EFM32GG12B430F512GQ100",
+    "EFM32GG12B430F512GQ64",
+    "EFM32GG12B430F512IL112",
+    "EFM32GG12B430F512IL120",
+    "EFM32GG12B430F512IM64",
+    "EFM32GG12B430F512IQ100",
+    "EFM32GG12B430F512IQ64",
+    "EFM32GG12B510F1024GL112",
+    "EFM32GG12B510F1024GL120",
+    "EFM32GG12B510F1024GM64",
+    "EFM32GG12B510F1024GQ100",
+    "EFM32GG12B510F1024GQ64",
+    "EFM32GG12B510F1024IL112",
+    "EFM32GG12B510F1024IL120",
+    "EFM32GG12B510F1024IM64",
+    "EFM32GG12B510F1024IQ100",
+    "EFM32GG12B510F1024IQ64",
+    "EFM32GG12B530F512GL112",
+    "EFM32GG12B530F512GL120",
+    "EFM32GG12B530F512GM64",
+    "EFM32GG12B530F512GQ100",
+    "EFM32GG12B530F512GQ64",
+    "EFM32GG12B530F512IL112",
+    "EFM32GG12B530F512IL120",
+    "EFM32GG12B530F512IM64",
+    "EFM32GG12B530F512IQ100",
+    "EFM32GG12B530F512IQ64",
+    "EFM32GG12B810F1024GL112",
+    "EFM32GG12B810F1024GL120",
+    "EFM32GG12B810F1024GM64",
+    "EFM32GG12B810F1024GQ100",
+    "EFM32GG12B810F1024GQ64",
+    "EFM32GG12B810F1024IL112",
+    "EFM32GG12B810F1024IL120",
+    "EFM32GG12B810F1024IM64",
+    "EFM32GG12B810F1024IQ100",
+    "EFM32GG12B810F1024IQ64",
+    "EFM32GG12B830F512GL112",
+    "EFM32GG12B830F512GL120",
+    "EFM32GG12B830F512GM64",
+    "EFM32GG12B830F512GQ100",
+    "EFM32GG12B830F512GQ64",
+    "EFM32GG12B830F512IL112",
+    "EFM32GG12B830F512IL120",
+    "EFM32GG12B830F512IM64",
+    "EFM32GG12B830F512IQ100"
+   ]
+  },
+  {
+   "path": "EFM32HG/EFM32HG350F64.svd",
+   "device": "EFM32HG350F64",
+   "family": "EFM32HG",
+   "source": "GeckoPlatform_EFM32HG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32HG108F32",
+    "EFM32HG108F64",
+    "EFM32HG110F32",
+    "EFM32HG110F64",
+    "EFM32HG210F32",
+    "EFM32HG210F64",
+    "EFM32HG222F32",
+    "EFM32HG222F64",
+    "EFM32HG308F32",
+    "EFM32HG308F64",
+    "EFM32HG309F32",
+    "EFM32HG309F64",
+    "EFM32HG310F32",
+    "EFM32HG310F64",
+    "EFM32HG321F32",
+    "EFM32HG321F64",
+    "EFM32HG322F32",
+    "EFM32HG322F64",
+    "EFM32HG350F32"
+   ]
+  },
+  {
+   "path": "EFM32JG12B/EFM32JG12B500F1024IM48.svd",
+   "device": "EFM32JG12B500F1024IM48",
+   "family": "EFM32JG12B",
+   "source": "GeckoPlatform_EFM32JG12B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32JG12B500F1024GL125",
+    "EFM32JG12B500F1024GM48",
+    "EFM32JG12B500F1024IL125"
+   ]
+  },
+  {
+   "path": "EFM32JG1B/EFM32JG1B200F256IM48.svd",
+   "device": "EFM32JG1B200F256IM48",
+   "family": "EFM32JG1B",
+   "source": "GeckoPlatform_EFM32JG1B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32JG1B100F128GM32",
+    "EFM32JG1B100F256GM32",
+    "EFM32JG1B100F256IM32",
+    "EFM32JG1B200F128GM32",
+    "EFM32JG1B200F128GM48",
+    "EFM32JG1B200F256GM32",
+    "EFM32JG1B200F256GM48",
+    "EFM32JG1B200F256IM32"
+   ]
+  },
+  {
+   "path": "EFM32LG/EFM32LG995F64.svd",
+   "device": "EFM32LG995F64",
+   "family": "EFM32LG",
+   "source": "GeckoPlatform_EFM32LG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32LG230F128",
+    "EFM32LG230F256",
+    "EFM32LG230F64",
+    "EFM32LG232F128",
+    "EFM32LG232F256",
+    "EFM32LG232F64",
+    "EFM32LG280F128",
+    "EFM32LG280F256",
+    "EFM32LG280F64",
+    "EFM32LG290F128",
+    "EFM32LG290F256",
+    "EFM32LG290F64",
+    "EFM32LG295F128",
+    "EFM32LG295F256",
+    "EFM32LG295F64",
+    "EFM32LG330F128",
+    "EFM32LG330F256",
+    "EFM32LG330F64",
+    "EFM32LG332F128",
+    "EFM32LG332F256",
+    "EFM32LG332F64",
+    "EFM32LG360F128",
+    "EFM32LG360F256",
+    "EFM32LG360F64",
+    "EFM32LG380F128",
+    "EFM32LG380F256",
+    "EFM32LG380F64",
+    "EFM32LG390F128",
+    "EFM32LG390F256",
+    "EFM32LG390F64",
+    "EFM32LG395F128",
+    "EFM32LG395F256",
+    "EFM32LG395F64",
+    "EFM32LG840F128",
+    "EFM32LG840F256",
+    "EFM32LG840F64",
+    "EFM32LG842F128",
+    "EFM32LG842F256",
+    "EFM32LG842F64",
+    "EFM32LG880F128",
+    "EFM32LG880F256",
+    "EFM32LG880F64",
+    "EFM32LG890F128",
+    "EFM32LG890F256",
+    "EFM32LG890F64",
+    "EFM32LG895F128",
+    "EFM32LG895F256",
+    "EFM32LG895F64",
+    "EFM32LG900F256",
+    "EFM32LG940F128",
+    "EFM32LG940F256",
+    "EFM32LG940F64",
+    "EFM32LG942F128",
+    "EFM32LG942F256",
+    "EFM32LG942F64",
+    "EFM32LG980F128",
+    "EFM32LG980F256",
+    "EFM32LG980F64",
+    "EFM32LG990F128",
+    "EFM32LG990F256",
+    "EFM32LG990F64",
+    "EFM32LG995F128",
+    "EFM32LG995F256"
+   ]
+  },
+  {
+   "path": "EFM32PG12B/EFM32PG12B500F1024IM48.svd",
+   "device": "EFM32PG12B500F1024IM48",
+   "family": "EFM32PG12B",
+   "source": "GeckoPlatform_EFM32PG12B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32PG12B500F1024GL125",
+    "EFM32PG12B500F1024GM48",
+    "EFM32PG12B500F1024IL125"
+   ]
+  },
+  {
+   "path": "EFM32PG1B/EFM32PG1B200F256IM48.svd",
+   "device": "EFM32PG1B200F256IM48",
+   "family": "EFM32PG1B",
+   "source": "GeckoPlatform_EFM32PG1B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32PG1B100F128GM32",
+    "EFM32PG1B100F128IM32",
+    "EFM32PG1B100F256GM32",
+    "EFM32PG1B100F256IM32",
+    "EFM32PG1B200F128GM32",
+    "EFM32PG1B200F128GM48",
+    "EFM32PG1B200F128IM32",
+    "EFM32PG1B200F256GM32",
+    "EFM32PG1B200F256GM48",
+    "EFM32PG1B200F256IM32"
+   ]
+  },
+  {
+   "path": "EFM32PG22/EFM32PG22C200F64IM40.svd",
+   "device": "EFM32PG22C200F64IM40",
+   "family": "EFM32PG22",
+   "source": "GeckoPlatform_EFM32PG22_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32PG22C200F128IM32",
+    "EFM32PG22C200F128IM40",
+    "EFM32PG22C200F256IM32",
+    "EFM32PG22C200F256IM40",
+    "EFM32PG22C200F512IM32",
+    "EFM32PG22C200F512IM40",
+    "EFM32PG22C200F64IM32"
+   ]
+  },
+  {
+   "path": "EFM32PG23/EFM32PG23B310F64IM48.svd",
+   "device": "EFM32PG23B310F64IM48",
+   "family": "EFM32PG23",
+   "source": "GeckoPlatform_EFM32PG23_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32PG23B200F128IM40",
+    "EFM32PG23B200F256IM40",
+    "EFM32PG23B200F512IM40",
+    "EFM32PG23B200F64IM40",
+    "EFM32PG23B210F128IM48",
+    "EFM32PG23B210F256IM48",
+    "EFM32PG23B210F512IM48",
+    "EFM32PG23B210F64IM48",
+    "EFM32PG23B310F128IM48",
+    "EFM32PG23B310F256IM48",
+    "EFM32PG23B310F512IM48"
+   ]
+  },
+  {
+   "path": "EFM32PG26/EFM32PG26B501F3200IM68.svd",
+   "device": "EFM32PG26B501F3200IM68",
+   "family": "EFM32PG26",
+   "source": "GeckoPlatform_EFM32PG26_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32PG26B101F512IL136",
+    "EFM32PG26B101F512IM68",
+    "EFM32PG26B301F1024IL136",
+    "EFM32PG26B301F1024IM68",
+    "EFM32PG26B301F2048IL136",
+    "EFM32PG26B301F2048IM68",
+    "EFM32PG26B500F3200IL136",
+    "EFM32PG26B500F3200IM48",
+    "EFM32PG26B500F3200IM68",
+    "EFM32PG26B501F3200IL136",
+    "EFM32PG26B501F3200IM48"
+   ]
+  },
+  {
+   "path": "EFM32PG28/EFM32PG28B310F1024IM68.svd",
+   "device": "EFM32PG28B310F1024IM68",
+   "family": "EFM32PG28",
+   "source": "GeckoPlatform_EFM32PG28_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32PG28B200F512IM68",
+    "EFM32PG28B210F1024IM68",
+    "EFM32PG28B300F512IM68"
+   ]
+  },
+  {
+   "path": "EFM32TG/EFM32TG842F8.svd",
+   "device": "EFM32TG842F8",
+   "family": "EFM32TG",
+   "source": "GeckoPlatform_EFM32TG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32TG108F16",
+    "EFM32TG108F32",
+    "EFM32TG108F4",
+    "EFM32TG108F8",
+    "EFM32TG110F16",
+    "EFM32TG110F32",
+    "EFM32TG110F4",
+    "EFM32TG110F8",
+    "EFM32TG210F16",
+    "EFM32TG210F32",
+    "EFM32TG210F8",
+    "EFM32TG222F16",
+    "EFM32TG222F32",
+    "EFM32TG222F8",
+    "EFM32TG225F16",
+    "EFM32TG225F32",
+    "EFM32TG225F8",
+    "EFM32TG230F16",
+    "EFM32TG230F32",
+    "EFM32TG230F8",
+    "EFM32TG232F16",
+    "EFM32TG232F32",
+    "EFM32TG232F8",
+    "EFM32TG822F16",
+    "EFM32TG822F32",
+    "EFM32TG822F8",
+    "EFM32TG825F16",
+    "EFM32TG825F32",
+    "EFM32TG825F8",
+    "EFM32TG840F16",
+    "EFM32TG840F32",
+    "EFM32TG840F8",
+    "EFM32TG842F16",
+    "EFM32TG842F32"
+   ]
+  },
+  {
+   "path": "EFM32TG11B/EFM32TG11B540F64IQ80.svd",
+   "device": "EFM32TG11B540F64IQ80",
+   "family": "EFM32TG11B",
+   "source": "GeckoPlatform_EFM32TG11B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32TG11B120F128GM32",
+    "EFM32TG11B120F128GM64",
+    "EFM32TG11B120F128GQ48",
+    "EFM32TG11B120F128GQ64",
+    "EFM32TG11B120F128IM32",
+    "EFM32TG11B120F128IM64",
+    "EFM32TG11B120F128IQ48",
+    "EFM32TG11B120F128IQ64",
+    "EFM32TG11B140F64GM32",
+    "EFM32TG11B140F64GM64",
+    "EFM32TG11B140F64GQ48",
+    "EFM32TG11B140F64GQ64",
+    "EFM32TG11B140F64IM32",
+    "EFM32TG11B140F64IM64",
+    "EFM32TG11B140F64IQ48",
+    "EFM32TG11B140F64IQ64",
+    "EFM32TG11B320F128GM64",
+    "EFM32TG11B320F128GQ48",
+    "EFM32TG11B320F128GQ64",
+    "EFM32TG11B320F128IM64",
+    "EFM32TG11B320F128IQ48",
+    "EFM32TG11B320F128IQ64",
+    "EFM32TG11B340F64GM64",
+    "EFM32TG11B340F64GQ48",
+    "EFM32TG11B340F64GQ64",
+    "EFM32TG11B340F64IM64",
+    "EFM32TG11B340F64IQ48",
+    "EFM32TG11B340F64IQ64",
+    "EFM32TG11B520F128GM32",
+    "EFM32TG11B520F128GM64",
+    "EFM32TG11B520F128GM80",
+    "EFM32TG11B520F128GQ48",
+    "EFM32TG11B520F128GQ64",
+    "EFM32TG11B520F128GQ80",
+    "EFM32TG11B520F128IM32",
+    "EFM32TG11B520F128IM64",
+    "EFM32TG11B520F128IM80",
+    "EFM32TG11B520F128IQ48",
+    "EFM32TG11B520F128IQ64",
+    "EFM32TG11B520F128IQ80",
+    "EFM32TG11B540F64GM32",
+    "EFM32TG11B540F64GM64",
+    "EFM32TG11B540F64GM80",
+    "EFM32TG11B540F64GQ48",
+    "EFM32TG11B540F64GQ64",
+    "EFM32TG11B540F64GQ80",
+    "EFM32TG11B540F64IM32",
+    "EFM32TG11B540F64IM64",
+    "EFM32TG11B540F64IM80",
+    "EFM32TG11B540F64IQ48",
+    "EFM32TG11B540F64IQ64"
+   ]
+  },
+  {
+   "path": "EFM32WG/EFM32WG995F64.svd",
+   "device": "EFM32WG995F64",
+   "family": "EFM32WG",
+   "source": "GeckoPlatform_EFM32WG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32WG230F128",
+    "EFM32WG230F256",
+    "EFM32WG230F64",
+    "EFM32WG232F128",
+    "EFM32WG232F256",
+    "EFM32WG232F64",
+    "EFM32WG280F128",
+    "EFM32WG280F256",
+    "EFM32WG280F64",
+    "EFM32WG290F128",
+    "EFM32WG290F256",
+    "EFM32WG290F64",
+    "EFM32WG295F128",
+    "EFM32WG295F256",
+    "EFM32WG295F64",
+    "EFM32WG330F128",
+    "EFM32WG330F256",
+    "EFM32WG330F64",
+    "EFM32WG332F128",
+    "EFM32WG332F256",
+    "EFM32WG332F64",
+    "EFM32WG360F128",
+    "EFM32WG360F256",
+    "EFM32WG360F64",
+    "EFM32WG380F128",
+    "EFM32WG380F256",
+    "EFM32WG380F64",
+    "EFM32WG390F128",
+    "EFM32WG390F256",
+    "EFM32WG390F64",
+    "EFM32WG395F128",
+    "EFM32WG395F256",
+    "EFM32WG395F64",
+    "EFM32WG840F128",
+    "EFM32WG840F256",
+    "EFM32WG840F64",
+    "EFM32WG842F128",
+    "EFM32WG842F256",
+    "EFM32WG842F64",
+    "EFM32WG880F128",
+    "EFM32WG880F256",
+    "EFM32WG880F64",
+    "EFM32WG890F128",
+    "EFM32WG890F256",
+    "EFM32WG890F64",
+    "EFM32WG895F128",
+    "EFM32WG895F256",
+    "EFM32WG895F64",
+    "EFM32WG900F256",
+    "EFM32WG940F128",
+    "EFM32WG940F256",
+    "EFM32WG940F64",
+    "EFM32WG942F128",
+    "EFM32WG942F256",
+    "EFM32WG942F64",
+    "EFM32WG980F128",
+    "EFM32WG980F256",
+    "EFM32WG980F64",
+    "EFM32WG990F128",
+    "EFM32WG990F256",
+    "EFM32WG990F64",
+    "EFM32WG995F128",
+    "EFM32WG995F256"
+   ]
+  },
+  {
+   "path": "EFM32ZG/EFM32ZG222F8.svd",
+   "device": "EFM32ZG222F8",
+   "family": "EFM32ZG",
+   "source": "GeckoPlatform_EFM32ZG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFM32ZG108F16",
+    "EFM32ZG108F32",
+    "EFM32ZG108F4",
+    "EFM32ZG108F8",
+    "EFM32ZG110F16",
+    "EFM32ZG110F32",
+    "EFM32ZG110F4",
+    "EFM32ZG110F8",
+    "EFM32ZG210F16",
+    "EFM32ZG210F32",
+    "EFM32ZG210F4",
+    "EFM32ZG210F8",
+    "EFM32ZG222F16",
+    "EFM32ZG222F32",
+    "EFM32ZG222F4"
+   ]
+  },
+  {
+   "path": "EFR32BG12P/EFR32BG12P433F1024IM68.svd",
+   "device": "EFR32BG12P433F1024IM68",
+   "family": "EFR32BG12P",
+   "source": "GeckoPlatform_EFR32BG12P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG12P132F1024GL125",
+    "EFR32BG12P132F1024GM48",
+    "EFR32BG12P232F1024GL125",
+    "EFR32BG12P232F1024GM48",
+    "EFR32BG12P232F1024GM68",
+    "EFR32BG12P232F1024IM68",
+    "EFR32BG12P232F512GM68",
+    "EFR32BG12P232F512IM68",
+    "EFR32BG12P332F1024GL125",
+    "EFR32BG12P332F1024GM48",
+    "EFR32BG12P332F1024IM48",
+    "EFR32BG12P432F1024GL125",
+    "EFR32BG12P432F1024GM48",
+    "EFR32BG12P433F1024GL125",
+    "EFR32BG12P433F1024GM48",
+    "EFR32BG12P433F1024GM68"
+   ]
+  },
+  {
+   "path": "EFR32BG13P/EFR32BG13P733F512GM48.svd",
+   "device": "EFR32BG13P733F512GM48",
+   "family": "EFR32BG13P",
+   "source": "GeckoPlatform_EFR32BG13P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG13P532F512GM32",
+    "EFR32BG13P532F512GM48",
+    "EFR32BG13P632F512GM32",
+    "EFR32BG13P632F512GM48",
+    "EFR32BG13P632F512GM51",
+    "EFR32BG13P632F512IM32",
+    "EFR32BG13P632F512IM48",
+    "EFR32BG13P732F512GM32",
+    "EFR32BG13P732F512GM48",
+    "EFR32BG13P732F512GM51"
+   ]
+  },
+  {
+   "path": "EFR32BG1B/EFR32BG1B232F256IM32.svd",
+   "device": "EFR32BG1B232F256IM32",
+   "family": "EFR32BG1B",
+   "source": "GeckoPlatform_EFR32BG1B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG1B132F128GJ43",
+    "EFR32BG1B132F128GM32",
+    "EFR32BG1B132F128GM48",
+    "EFR32BG1B132F256GD32",
+    "EFR32BG1B132F256GJ43",
+    "EFR32BG1B132F256GM32",
+    "EFR32BG1B132F256GM48",
+    "EFR32BG1B132F256GM56",
+    "EFR32BG1B132F256IM32",
+    "EFR32BG1B232F128GJ43",
+    "EFR32BG1B232F128GM32",
+    "EFR32BG1B232F128GM48",
+    "EFR32BG1B232F256GJ43",
+    "EFR32BG1B232F256GM32",
+    "EFR32BG1B232F256GM48",
+    "EFR32BG1B232F256GM56"
+   ]
+  },
+  {
+   "path": "EFR32BG1P/EFR32BG1P333F256IM48.svd",
+   "device": "EFR32BG1P333F256IM48",
+   "family": "EFR32BG1P",
+   "source": "GeckoPlatform_EFR32BG1P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG1P232F256GJ43",
+    "EFR32BG1P232F256GM32",
+    "EFR32BG1P232F256GM48",
+    "EFR32BG1P232F256IM32",
+    "EFR32BG1P232F256IM48",
+    "EFR32BG1P233F256GM48",
+    "EFR32BG1P332F256GJ43",
+    "EFR32BG1P332F256GM32",
+    "EFR32BG1P332F256GM48",
+    "EFR32BG1P333F256GM48"
+   ]
+  },
+  {
+   "path": "EFR32BG1V/EFR32BG1V132F256IM32.svd",
+   "device": "EFR32BG1V132F256IM32",
+   "family": "EFR32BG1V",
+   "source": "GeckoPlatform_EFR32BG1V_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG1V132F128GJ43",
+    "EFR32BG1V132F128GM32",
+    "EFR32BG1V132F128GM48",
+    "EFR32BG1V132F256GJ43",
+    "EFR32BG1V132F256GM32",
+    "EFR32BG1V132F256GM48"
+   ]
+  },
+  {
+   "path": "EFR32BG21/EFR32BG21A020F768IM32.svd",
+   "device": "EFR32BG21A020F768IM32",
+   "family": "EFR32BG21",
+   "source": "GeckoPlatform_EFR32BG21_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG21A010F1024IM32",
+    "EFR32BG21A010F512IM32",
+    "EFR32BG21A010F768IM32",
+    "EFR32BG21A020F1024IM32",
+    "EFR32BG21A020F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32BG21/EFR32BG21B020F768IM32.svd",
+   "device": "EFR32BG21B020F768IM32",
+   "family": "EFR32BG21",
+   "source": "GeckoPlatform_EFR32BG21_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG21B010F1024IM32",
+    "EFR32BG21B010F512IM32",
+    "EFR32BG21B010F768IM32",
+    "EFR32BG21B020F1024IM32",
+    "EFR32BG21B020F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32BG22/EFR32BG22C224F512IM40.svd",
+   "device": "EFR32BG22C224F512IM40",
+   "family": "EFR32BG22",
+   "source": "GeckoPlatform_EFR32BG22_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG22C112F352GM32",
+    "EFR32BG22C112F352GM40",
+    "EFR32BG22C222F352GM32",
+    "EFR32BG22C222F352GM40",
+    "EFR32BG22C222F352GN32",
+    "EFR32BG22C224F512GM32",
+    "EFR32BG22C224F512GM40",
+    "EFR32BG22C224F512GN32",
+    "EFR32BG22C224F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32BG22/EFR32BG22E224F512IM40.svd",
+   "device": "EFR32BG22E224F512IM40",
+   "family": "EFR32BG22",
+   "source": "GeckoPlatform_EFR32BG22_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG22E224F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32BG22/EFR32BG22L122F352GM32.svd",
+   "device": "EFR32BG22L122F352GM32",
+   "family": "EFR32BG22",
+   "source": "GeckoPlatform_EFR32BG22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "EFR32BG24/EFR32BG24A620F1536IM40.svd",
+   "device": "EFR32BG24A620F1536IM40",
+   "family": "EFR32BG24",
+   "source": "GeckoPlatform_EFR32BG24_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG24A010F1024GJ42",
+    "EFR32BG24A010F1024IM40",
+    "EFR32BG24A010F1024IM48",
+    "EFR32BG24A010F1536IM40",
+    "EFR32BG24A010F1536IM48",
+    "EFR32BG24A020F1024IM40",
+    "EFR32BG24A020F1024IM48",
+    "EFR32BG24A020F1536IM40",
+    "EFR32BG24A610F1536IM40"
+   ]
+  },
+  {
+   "path": "EFR32BG24/EFR32BG24B620F1536IM40.svd",
+   "device": "EFR32BG24B620F1536IM40",
+   "family": "EFR32BG24",
+   "source": "GeckoPlatform_EFR32BG24_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG24B010F1024GJ42",
+    "EFR32BG24B010F1536IM40",
+    "EFR32BG24B010F1536IM48",
+    "EFR32BG24B020F1536IM40",
+    "EFR32BG24B110F1536IM48",
+    "EFR32BG24B210F1024IM48",
+    "EFR32BG24B210F1536IM48",
+    "EFR32BG24B220F1024IM48",
+    "EFR32BG24B310F1536IJ42",
+    "EFR32BG24B410F1536IJ42",
+    "EFR32BG24B610F1536IM40"
+   ]
+  },
+  {
+   "path": "EFR32BG24/EFR32BG24L210F768IM40.svd",
+   "device": "EFR32BG24L210F768IM40",
+   "family": "EFR32BG24",
+   "source": "GeckoPlatform_EFR32BG24_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG24L010F768IM40"
+   ]
+  },
+  {
+   "path": "EFR32BG26/EFR32BG26B511F3200IM68.svd",
+   "device": "EFR32BG26B511F3200IM68",
+   "family": "EFR32BG26",
+   "source": "GeckoPlatform_EFR32BG26_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG26B311F1024IL136",
+    "EFR32BG26B311F1024IM68",
+    "EFR32BG26B311F2048IL136",
+    "EFR32BG26B311F2048IM48",
+    "EFR32BG26B311F2048IM68",
+    "EFR32BG26B321F1024IM68",
+    "EFR32BG26B321F2048IM48",
+    "EFR32BG26B321F2048IM68",
+    "EFR32BG26B410F3200IM48",
+    "EFR32BG26B411F3200IM48",
+    "EFR32BG26B420F3200IM48",
+    "EFR32BG26B421F3200IM48",
+    "EFR32BG26B510F3200IL136",
+    "EFR32BG26B510F3200IM48",
+    "EFR32BG26B510F3200IM68",
+    "EFR32BG26B511F3200IL136",
+    "EFR32BG26B511F3200IM48"
+   ]
+  },
+  {
+   "path": "EFR32BG27/EFR32BG27C320F768IJ39.svd",
+   "device": "EFR32BG27C320F768IJ39",
+   "family": "EFR32BG27",
+   "source": "GeckoPlatform_EFR32BG27_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG27C140F768IM32",
+    "EFR32BG27C140F768IM40",
+    "EFR32BG27C230F768IM32",
+    "EFR32BG27C230F768IM40",
+    "EFR32BG27C320F768GJ39"
+   ]
+  },
+  {
+   "path": "EFR32BG29/EFR32BG29B230F1024CM40.svd",
+   "device": "EFR32BG29B230F1024CM40",
+   "family": "EFR32BG29",
+   "source": "GeckoPlatform_EFR32BG29_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32BG29B140F1024IM40",
+    "EFR32BG29B220F1024CJ45",
+    "EFR32BG29B221F1024CJ45"
+   ]
+  },
+  {
+   "path": "EFR32FG12P/EFR32FG12P433F1024GM68.svd",
+   "device": "EFR32FG12P433F1024GM68",
+   "family": "EFR32FG12P",
+   "source": "GeckoPlatform_EFR32FG12P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG12P231F1024GL125",
+    "EFR32FG12P231F1024GM48",
+    "EFR32FG12P231F1024GM68",
+    "EFR32FG12P231F512GM68",
+    "EFR32FG12P232F1024GL125",
+    "EFR32FG12P232F1024GM48",
+    "EFR32FG12P431F1024GL125",
+    "EFR32FG12P431F1024GM48",
+    "EFR32FG12P431F1024GM68",
+    "EFR32FG12P431F1024IM48",
+    "EFR32FG12P431F512GM68",
+    "EFR32FG12P432F1024GL125",
+    "EFR32FG12P432F1024GM48",
+    "EFR32FG12P433F1024GL125",
+    "EFR32FG12P433F1024GM48"
+   ]
+  },
+  {
+   "path": "EFR32FG13P/EFR32FG13P233F512GM48.svd",
+   "device": "EFR32FG13P233F512GM48",
+   "family": "EFR32FG13P",
+   "source": "GeckoPlatform_EFR32FG13P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG13P231F512GM32",
+    "EFR32FG13P231F512GM48",
+    "EFR32FG13P231F512IM32",
+    "EFR32FG13P231F512IM48",
+    "EFR32FG13P232F512GM32",
+    "EFR32FG13P232F512GM48"
+   ]
+  },
+  {
+   "path": "EFR32FG14P/EFR32FG14P233F256GM48.svd",
+   "device": "EFR32FG14P233F256GM48",
+   "family": "EFR32FG14P",
+   "source": "GeckoPlatform_EFR32FG14P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG14P231F128GM32",
+    "EFR32FG14P231F128GM48",
+    "EFR32FG14P231F256GM32",
+    "EFR32FG14P231F256GM48",
+    "EFR32FG14P231F256IM32",
+    "EFR32FG14P231F256IM48",
+    "EFR32FG14P232F128GM32",
+    "EFR32FG14P232F128GM48",
+    "EFR32FG14P232F256GM32",
+    "EFR32FG14P232F256GM48",
+    "EFR32FG14P233F128GM48"
+   ]
+  },
+  {
+   "path": "EFR32FG14V/EFR32FG14V132F256GM48.svd",
+   "device": "EFR32FG14V132F256GM48",
+   "family": "EFR32FG14V",
+   "source": "GeckoPlatform_EFR32FG14V_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG14V132F256GM32"
+   ]
+  },
+  {
+   "path": "EFR32FG1P/EFR32FG1P133F64GM48.svd",
+   "device": "EFR32FG1P133F64GM48",
+   "family": "EFR32FG1P",
+   "source": "GeckoPlatform_EFR32FG1P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG1P131F128GM32",
+    "EFR32FG1P131F128GM48",
+    "EFR32FG1P131F256GM32",
+    "EFR32FG1P131F256GM48",
+    "EFR32FG1P131F256IM32",
+    "EFR32FG1P131F256IM48",
+    "EFR32FG1P131F64GM32",
+    "EFR32FG1P131F64GM48",
+    "EFR32FG1P132F128GM32",
+    "EFR32FG1P132F128GM48",
+    "EFR32FG1P132F256GM32",
+    "EFR32FG1P132F256GM48",
+    "EFR32FG1P132F64GM32",
+    "EFR32FG1P132F64GM48",
+    "EFR32FG1P133F128GM48",
+    "EFR32FG1P133F256GM32",
+    "EFR32FG1P133F256GM48"
+   ]
+  },
+  {
+   "path": "EFR32FG1V/EFR32FG1V232F256GM48.svd",
+   "device": "EFR32FG1V232F256GM48",
+   "family": "EFR32FG1V",
+   "source": "GeckoPlatform_EFR32FG1V_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG1V032F128GM32",
+    "EFR32FG1V032F256GM32",
+    "EFR32FG1V131F128GM32",
+    "EFR32FG1V131F128GM48",
+    "EFR32FG1V131F256GM32",
+    "EFR32FG1V131F256GM48",
+    "EFR32FG1V131F32GM32",
+    "EFR32FG1V131F32GM48",
+    "EFR32FG1V131F64GM32",
+    "EFR32FG1V131F64GM48",
+    "EFR32FG1V132F128GM32",
+    "EFR32FG1V132F128GM48",
+    "EFR32FG1V132F256GM32",
+    "EFR32FG1V132F256GM48",
+    "EFR32FG1V132F32GM32",
+    "EFR32FG1V132F32GM48",
+    "EFR32FG1V132F64GM32",
+    "EFR32FG1V132F64GM48",
+    "EFR32FG1V232F256GM32"
+   ]
+  },
+  {
+   "path": "EFR32FG22/EFR32FG22C121F512GM40.svd",
+   "device": "EFR32FG22C121F512GM40",
+   "family": "EFR32FG22",
+   "source": "GeckoPlatform_EFR32FG22_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG22C121F256GM32",
+    "EFR32FG22C121F256GM40",
+    "EFR32FG22C121F512GM32"
+   ]
+  },
+  {
+   "path": "EFR32FG23/EFR32FG23A021F512GM40.svd",
+   "device": "EFR32FG23A021F512GM40",
+   "family": "EFR32FG23",
+   "source": "GeckoPlatform_EFR32FG23_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG23A010F128GM40",
+    "EFR32FG23A010F256GM40",
+    "EFR32FG23A010F256GM48",
+    "EFR32FG23A010F512GM40",
+    "EFR32FG23A010F512GM48",
+    "EFR32FG23A011F512GM40",
+    "EFR32FG23A020F128GM40",
+    "EFR32FG23A020F256GM40",
+    "EFR32FG23A020F256GM48",
+    "EFR32FG23A020F512GM40",
+    "EFR32FG23A020F512GM48"
+   ]
+  },
+  {
+   "path": "EFR32FG23/EFR32FG23B021F512IM48.svd",
+   "device": "EFR32FG23B021F512IM48",
+   "family": "EFR32FG23",
+   "source": "GeckoPlatform_EFR32FG23_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG23B010F128GM40",
+    "EFR32FG23B010F512GM48",
+    "EFR32FG23B010F512IM40",
+    "EFR32FG23B010F512IM48",
+    "EFR32FG23B020F128GM40",
+    "EFR32FG23B020F512IM40",
+    "EFR32FG23B020F512IM48",
+    "EFR32FG23B021F512IM40"
+   ]
+  },
+  {
+   "path": "EFR32FG23/EFR32FG23L020F128GM40.svd",
+   "device": "EFR32FG23L020F128GM40",
+   "family": "EFR32FG23",
+   "source": "GeckoPlatform_EFR32FG23_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG23L010F128GM40"
+   ]
+  },
+  {
+   "path": "EFR32FG25/EFR32FG25A221F1920IM56.svd",
+   "device": "EFR32FG25A221F1920IM56",
+   "family": "EFR32FG25",
+   "source": "GeckoPlatform_EFR32FG25_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG25A021F256IM56",
+    "EFR32FG25A021F512IM56",
+    "EFR32FG25A111F1152IM56",
+    "EFR32FG25A121F1152IM56",
+    "EFR32FG25A211F1152IM56",
+    "EFR32FG25A211F1920IM56",
+    "EFR32FG25A221F1152IM56"
+   ]
+  },
+  {
+   "path": "EFR32FG25/EFR32FG25B222F1920IM56.svd",
+   "device": "EFR32FG25B222F1920IM56",
+   "family": "EFR32FG25",
+   "source": "GeckoPlatform_EFR32FG25_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG25B111F1152IM56",
+    "EFR32FG25B121F1152IM56",
+    "EFR32FG25B211F1920IM56",
+    "EFR32FG25B212F1920IM56",
+    "EFR32FG25B221F1920IM56"
+   ]
+  },
+  {
+   "path": "EFR32FG28/EFR32FG28A122F1024GM68.svd",
+   "device": "EFR32FG28A122F1024GM68",
+   "family": "EFR32FG28",
+   "source": "GeckoPlatform_EFR32FG28_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG28A010F1024GM48",
+    "EFR32FG28A010F1024GM68",
+    "EFR32FG28A110F1024GM48",
+    "EFR32FG28A110F1024GM68",
+    "EFR32FG28A112F1024GM48",
+    "EFR32FG28A112F1024GM68",
+    "EFR32FG28A120F1024GM48",
+    "EFR32FG28A120F1024GM68",
+    "EFR32FG28A122F1024GM48"
+   ]
+  },
+  {
+   "path": "EFR32FG28/EFR32FG28B322F1024IM68.svd",
+   "device": "EFR32FG28B322F1024IM68",
+   "family": "EFR32FG28",
+   "source": "GeckoPlatform_EFR32FG28_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG28B310F1024IM48",
+    "EFR32FG28B310F1024IM68",
+    "EFR32FG28B312F1024IM48",
+    "EFR32FG28B312F1024IM68",
+    "EFR32FG28B320F1024IM48",
+    "EFR32FG28B320F1024IM68",
+    "EFR32FG28B322F1024IM48"
+   ]
+  },
+  {
+   "path": "EFR32FG2D/EFR32FG2DA020F256IM48.svd",
+   "device": "EFR32FG2DA020F256IM48",
+   "family": "EFR32FG2D",
+   "source": "GeckoPlatform_EFR32FG2D_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG2DA010F256IM40",
+    "EFR32FG2DA010F256IM48"
+   ]
+  },
+  {
+   "path": "EFR32FG2D/EFR32FG2DB020F512IM48.svd",
+   "device": "EFR32FG2DB020F512IM48",
+   "family": "EFR32FG2D",
+   "source": "GeckoPlatform_EFR32FG2D_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32FG2DB010F512IM40",
+    "EFR32FG2DB010F512IM48"
+   ]
+  },
+  {
+   "path": "EFR32MG12P/EFR32MG12P433F1024IM48.svd",
+   "device": "EFR32MG12P433F1024IM48",
+   "family": "EFR32MG12P",
+   "source": "GeckoPlatform_EFR32MG12P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG12P132F1024GL125",
+    "EFR32MG12P132F1024GM48",
+    "EFR32MG12P132F512GM68",
+    "EFR32MG12P231F1024GM48",
+    "EFR32MG12P231F1024GM68",
+    "EFR32MG12P232F1024GL125",
+    "EFR32MG12P232F1024GM48",
+    "EFR32MG12P232F1024GM68",
+    "EFR32MG12P232F512GM68",
+    "EFR32MG12P332F1024GL125",
+    "EFR32MG12P332F1024GM48",
+    "EFR32MG12P332F1024IM48",
+    "EFR32MG12P431F1024GM48",
+    "EFR32MG12P431F1024GM68",
+    "EFR32MG12P432F1024GL125",
+    "EFR32MG12P432F1024GM48",
+    "EFR32MG12P432F1024GM68",
+    "EFR32MG12P432F1024IM48",
+    "EFR32MG12P433F1024GL125",
+    "EFR32MG12P433F1024GM48",
+    "EFR32MG12P433F1024GM68",
+    "EFR32MG12P433F1024IL125"
+   ]
+  },
+  {
+   "path": "EFR32MG13P/EFR32MG13P832F512IM48.svd",
+   "device": "EFR32MG13P832F512IM48",
+   "family": "EFR32MG13P",
+   "source": "GeckoPlatform_EFR32MG13P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG13P632F512GM32",
+    "EFR32MG13P632F512GM48",
+    "EFR32MG13P632F512GM51",
+    "EFR32MG13P731F512GM48",
+    "EFR32MG13P732F512GM32",
+    "EFR32MG13P732F512GM48",
+    "EFR32MG13P732F512GM51",
+    "EFR32MG13P732F512IM32",
+    "EFR32MG13P732F512IM48",
+    "EFR32MG13P733F512GM48",
+    "EFR32MG13P733F512IM48"
+   ]
+  },
+  {
+   "path": "EFR32MG14P/EFR32MG14P733F256IM48.svd",
+   "device": "EFR32MG14P733F256IM48",
+   "family": "EFR32MG14P",
+   "source": "GeckoPlatform_EFR32MG14P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG14P632F256GM32",
+    "EFR32MG14P632F256GM48",
+    "EFR32MG14P731F256GM48",
+    "EFR32MG14P732F256GM32",
+    "EFR32MG14P732F256GM48",
+    "EFR32MG14P732F256IM32",
+    "EFR32MG14P732F256IM48",
+    "EFR32MG14P733F256GM48"
+   ]
+  },
+  {
+   "path": "EFR32MG1B/EFR32MG1B732F256IM32.svd",
+   "device": "EFR32MG1B732F256IM32",
+   "family": "EFR32MG1B",
+   "source": "GeckoPlatform_EFR32MG1B_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG1B131F256GM32",
+    "EFR32MG1B131F256GM48",
+    "EFR32MG1B132F256GJ43",
+    "EFR32MG1B132F256GM32",
+    "EFR32MG1B132F256GM48",
+    "EFR32MG1B231F256GM32",
+    "EFR32MG1B231F256GM48",
+    "EFR32MG1B232F256GJ43",
+    "EFR32MG1B232F256GM32",
+    "EFR32MG1B232F256GM48",
+    "EFR32MG1B232F256IM48",
+    "EFR32MG1B632F256GM32",
+    "EFR32MG1B632F256IM32",
+    "EFR32MG1B732F256GM32"
+   ]
+  },
+  {
+   "path": "EFR32MG1P/EFR32MG1P732F256IM32.svd",
+   "device": "EFR32MG1P732F256IM32",
+   "family": "EFR32MG1P",
+   "source": "GeckoPlatform_EFR32MG1P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG1P131F256GM48",
+    "EFR32MG1P132F256GJ43",
+    "EFR32MG1P132F256GM32",
+    "EFR32MG1P132F256GM48",
+    "EFR32MG1P132F256IM32",
+    "EFR32MG1P132F256IM48",
+    "EFR32MG1P133F256GM48",
+    "EFR32MG1P231F256GM48",
+    "EFR32MG1P232F256GJ43",
+    "EFR32MG1P232F256GM32",
+    "EFR32MG1P232F256GM48",
+    "EFR32MG1P232F256IM32",
+    "EFR32MG1P232F256IM48",
+    "EFR32MG1P233F256GM48",
+    "EFR32MG1P233F256IM48",
+    "EFR32MG1P632F256GM32",
+    "EFR32MG1P632F256IM32",
+    "EFR32MG1P732F256GM32"
+   ]
+  },
+  {
+   "path": "EFR32MG1V/EFR32MG1V132F256GM48.svd",
+   "device": "EFR32MG1V132F256GM48",
+   "family": "EFR32MG1V",
+   "source": "GeckoPlatform_EFR32MG1V_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG1V131F256GM32",
+    "EFR32MG1V131F256GM48",
+    "EFR32MG1V132F256GM32"
+   ]
+  },
+  {
+   "path": "EFR32MG21/EFR32MG21A020F768IM32.svd",
+   "device": "EFR32MG21A020F768IM32",
+   "family": "EFR32MG21",
+   "source": "GeckoPlatform_EFR32MG21_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG21A010F1024IM32",
+    "EFR32MG21A010F512IM32",
+    "EFR32MG21A010F768IM32",
+    "EFR32MG21A020F1024IM32",
+    "EFR32MG21A020F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32MG21/EFR32MG21B020F768IM32.svd",
+   "device": "EFR32MG21B020F768IM32",
+   "family": "EFR32MG21",
+   "source": "GeckoPlatform_EFR32MG21_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG21B010F1024IM32",
+    "EFR32MG21B010F512IM32",
+    "EFR32MG21B010F768IM32",
+    "EFR32MG21B020F1024IM32",
+    "EFR32MG21B020F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32MG21/RM21Z000F1024IM32.svd",
+   "device": "RM21Z000F1024IM32",
+   "family": "EFR32MG21",
+   "source": "GeckoPlatform_EFR32MG21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "EFR32MG22/EFR32MG22A224F512IM40.svd",
+   "device": "EFR32MG22A224F512IM40",
+   "family": "EFR32MG22",
+   "source": "GeckoPlatform_EFR32MG22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "EFR32MG22/EFR32MG22C224F512IM40.svd",
+   "device": "EFR32MG22C224F512IM40",
+   "family": "EFR32MG22",
+   "source": "GeckoPlatform_EFR32MG22_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG22C224F512GN32",
+    "EFR32MG22C224F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32MG22/EFR32MG22E224F512IM40.svd",
+   "device": "EFR32MG22E224F512IM40",
+   "family": "EFR32MG22",
+   "source": "GeckoPlatform_EFR32MG22_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG22E224F512IM32"
+   ]
+  },
+  {
+   "path": "EFR32MG24/EFR32MG24A620F1536IM40.svd",
+   "device": "EFR32MG24A620F1536IM40",
+   "family": "EFR32MG24",
+   "source": "GeckoPlatform_EFR32MG24_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG24A010F1024IM40",
+    "EFR32MG24A010F1024IM48",
+    "EFR32MG24A010F1536GM40",
+    "EFR32MG24A010F1536GM48",
+    "EFR32MG24A010F1536IM40",
+    "EFR32MG24A010F1536IM48",
+    "EFR32MG24A010F768IM40",
+    "EFR32MG24A010F768IM48",
+    "EFR32MG24A020F1024IM40",
+    "EFR32MG24A020F1024IM48",
+    "EFR32MG24A020F1536GM40",
+    "EFR32MG24A020F1536GM48",
+    "EFR32MG24A020F1536IM40",
+    "EFR32MG24A020F1536IM48",
+    "EFR32MG24A020F768IM40",
+    "EFR32MG24A021F1024IM40",
+    "EFR32MG24A110F1024IM48",
+    "EFR32MG24A110F1536GM48",
+    "EFR32MG24A111F1536GM48",
+    "EFR32MG24A120F1536GM48",
+    "EFR32MG24A121F1536GM48",
+    "EFR32MG24A410F1536IM40",
+    "EFR32MG24A410F1536IM48",
+    "EFR32MG24A420F1536IM40",
+    "EFR32MG24A420F1536IM48",
+    "EFR32MG24A610F1536IM40"
+   ]
+  },
+  {
+   "path": "EFR32MG24/EFR32MG24B610F1536IM40.svd",
+   "device": "EFR32MG24B610F1536IM40",
+   "family": "EFR32MG24",
+   "source": "GeckoPlatform_EFR32MG24_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG24B010F1024IM48",
+    "EFR32MG24B010F1536IM40",
+    "EFR32MG24B010F1536IM48",
+    "EFR32MG24B020F1024IM48",
+    "EFR32MG24B020F1536IM40",
+    "EFR32MG24B020F1536IM48",
+    "EFR32MG24B110F1536GM48",
+    "EFR32MG24B110F1536IM48",
+    "EFR32MG24B120F1536IM48",
+    "EFR32MG24B210F1536IM40",
+    "EFR32MG24B210F1536IM48",
+    "EFR32MG24B220F1536IM48",
+    "EFR32MG24B310F1536IM48"
+   ]
+  },
+  {
+   "path": "EFR32MG26/EFR32MG26B611F2048IM48.svd",
+   "device": "EFR32MG26B611F2048IM48",
+   "family": "EFR32MG26",
+   "source": "GeckoPlatform_EFR32MG26_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG26B211F2048IM68",
+    "EFR32MG26B211F3200IM48",
+    "EFR32MG26B221F2048IM68",
+    "EFR32MG26B221F3200IM48",
+    "EFR32MG26B311F3200IL136",
+    "EFR32MG26B410F3200IM48",
+    "EFR32MG26B410F3200IM68",
+    "EFR32MG26B411F3200IM48",
+    "EFR32MG26B411F3200IM68",
+    "EFR32MG26B420F3200IM48",
+    "EFR32MG26B420F3200IM68",
+    "EFR32MG26B421F3200IM48",
+    "EFR32MG26B421F3200IM68",
+    "EFR32MG26B510F3200IL136",
+    "EFR32MG26B510F3200IM48",
+    "EFR32MG26B510F3200IM68",
+    "EFR32MG26B511F3200IL136",
+    "EFR32MG26B511F3200IM48",
+    "EFR32MG26B511F3200IM68",
+    "EFR32MG26B520F3200IM48",
+    "EFR32MG26B520F3200IM68",
+    "EFR32MG26B521F3200IM48",
+    "EFR32MG26B521F3200IM68",
+    "EFR32MG26B610F3200IM48"
+   ]
+  },
+  {
+   "path": "EFR32MG27/EFR32MG27C230F768IM40.svd",
+   "device": "EFR32MG27C230F768IM40",
+   "family": "EFR32MG27",
+   "source": "GeckoPlatform_EFR32MG27_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG27C140F768IM32",
+    "EFR32MG27C140F768IM40",
+    "EFR32MG27C230F768IM32"
+   ]
+  },
+  {
+   "path": "EFR32MG29/EFR32MG29B230F1024CM40.svd",
+   "device": "EFR32MG29B230F1024CM40",
+   "family": "EFR32MG29",
+   "source": "GeckoPlatform_EFR32MG29_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32MG29B140F1024IM40"
+   ]
+  },
+  {
+   "path": "EFR32MR21/EFR32MR21A020F512IM32.svd",
+   "device": "EFR32MR21A020F512IM32",
+   "family": "EFR32MR21",
+   "source": "GeckoPlatform_EFR32MR21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "EFR32SG23/EFR32SG23B020F512IM48.svd",
+   "device": "EFR32SG23B020F512IM48",
+   "family": "EFR32SG23",
+   "source": "GeckoPlatform_EFR32SG23_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32SG23B020F512IM40"
+   ]
+  },
+  {
+   "path": "EFR32SG28/EFR32SG28B322F1024IM68.svd",
+   "device": "EFR32SG28B322F1024IM68",
+   "family": "EFR32SG28",
+   "source": "GeckoPlatform_EFR32SG28_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32SG28B320F1024IM48",
+    "EFR32SG28B320F1024IM68",
+    "EFR32SG28B322F1024IM48"
+   ]
+  },
+  {
+   "path": "EFR32ZG13L/EFR32ZG13L231F512IM32.svd",
+   "device": "EFR32ZG13L231F512IM32",
+   "family": "EFR32ZG13L",
+   "source": "GeckoPlatform_EFR32ZG13L_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32ZG13L231F512GM32"
+   ]
+  },
+  {
+   "path": "EFR32ZG13P/EFR32ZG13P531F512GM48.svd",
+   "device": "EFR32ZG13P531F512GM48",
+   "family": "EFR32ZG13P",
+   "source": "GeckoPlatform_EFR32ZG13P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32ZG13P231F512GM64",
+    "EFR32ZG13P531F512GM32"
+   ]
+  },
+  {
+   "path": "EFR32ZG13S/EFR32ZG13S231F512GM32.svd",
+   "device": "EFR32ZG13S231F512GM32",
+   "family": "EFR32ZG13S",
+   "source": "GeckoPlatform_EFR32ZG13S_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "EFR32ZG14P/EFR32ZG14P731F256GM32.svd",
+   "device": "EFR32ZG14P731F256GM32",
+   "family": "EFR32ZG14P",
+   "source": "GeckoPlatform_EFR32ZG14P_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32ZG14P231F256GM32"
+   ]
+  },
+  {
+   "path": "EFR32ZG23/EFR32ZG23A020F512GM48.svd",
+   "device": "EFR32ZG23A020F512GM48",
+   "family": "EFR32ZG23",
+   "source": "GeckoPlatform_EFR32ZG23_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32ZG23A010F512GM40",
+    "EFR32ZG23A010F512GM48",
+    "EFR32ZG23A020F512GM40"
+   ]
+  },
+  {
+   "path": "EFR32ZG23/EFR32ZG23B021F512IM40.svd",
+   "device": "EFR32ZG23B021F512IM40",
+   "family": "EFR32ZG23",
+   "source": "GeckoPlatform_EFR32ZG23_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32ZG23B010F512IM40",
+    "EFR32ZG23B010F512IM48",
+    "EFR32ZG23B011F512IM40",
+    "EFR32ZG23B020F512IM40",
+    "EFR32ZG23B020F512IM48"
+   ]
+  },
+  {
+   "path": "EFR32ZG28/EFR32ZG28A122F1024GM68.svd",
+   "device": "EFR32ZG28A122F1024GM68",
+   "family": "EFR32ZG28",
+   "source": "GeckoPlatform_EFR32ZG28_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32ZG28A110F1024GM48",
+    "EFR32ZG28A110F1024GM68",
+    "EFR32ZG28A112F1024GM48",
+    "EFR32ZG28A112F1024GM68",
+    "EFR32ZG28A120F1024GM48",
+    "EFR32ZG28A120F1024GM68",
+    "EFR32ZG28A122F1024GM48"
+   ]
+  },
+  {
+   "path": "EFR32ZG28/EFR32ZG28B322F1024IM68.svd",
+   "device": "EFR32ZG28B322F1024IM68",
+   "family": "EFR32ZG28",
+   "source": "GeckoPlatform_EFR32ZG28_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EFR32ZG28B310F1024IM48",
+    "EFR32ZG28B310F1024IM68",
+    "EFR32ZG28B312F1024IM48",
+    "EFR32ZG28B312F1024IM68",
+    "EFR32ZG28B320F1024IM48",
+    "EFR32ZG28B320F1024IM68",
+    "EFR32ZG28B322F1024IM48"
+   ]
+  },
+  {
+   "path": "EZR32HG/EZR32HG320F64R69.svd",
+   "device": "EZR32HG320F64R69",
+   "family": "EZR32HG",
+   "source": "GeckoPlatform_EZR32HG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EZR32HG220F32R55",
+    "EZR32HG220F32R60",
+    "EZR32HG220F32R61",
+    "EZR32HG220F32R63",
+    "EZR32HG220F32R67",
+    "EZR32HG220F32R68",
+    "EZR32HG220F32R69",
+    "EZR32HG220F64R55",
+    "EZR32HG220F64R60",
+    "EZR32HG220F64R61",
+    "EZR32HG220F64R63",
+    "EZR32HG220F64R67",
+    "EZR32HG220F64R68",
+    "EZR32HG220F64R69",
+    "EZR32HG320F32R55",
+    "EZR32HG320F32R60",
+    "EZR32HG320F32R61",
+    "EZR32HG320F32R63",
+    "EZR32HG320F32R67",
+    "EZR32HG320F32R68",
+    "EZR32HG320F32R69",
+    "EZR32HG320F64R55",
+    "EZR32HG320F64R60",
+    "EZR32HG320F64R61",
+    "EZR32HG320F64R63",
+    "EZR32HG320F64R67",
+    "EZR32HG320F64R68"
+   ]
+  },
+  {
+   "path": "EZR32LG/EZR32LG330F64R69.svd",
+   "device": "EZR32LG330F64R69",
+   "family": "EZR32LG",
+   "source": "GeckoPlatform_EZR32LG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EZR32LG230F128R55",
+    "EZR32LG230F128R60",
+    "EZR32LG230F128R61",
+    "EZR32LG230F128R63",
+    "EZR32LG230F128R67",
+    "EZR32LG230F128R68",
+    "EZR32LG230F128R69",
+    "EZR32LG230F256R55",
+    "EZR32LG230F256R60",
+    "EZR32LG230F256R61",
+    "EZR32LG230F256R63",
+    "EZR32LG230F256R67",
+    "EZR32LG230F256R68",
+    "EZR32LG230F256R69",
+    "EZR32LG230F64R55",
+    "EZR32LG230F64R60",
+    "EZR32LG230F64R61",
+    "EZR32LG230F64R63",
+    "EZR32LG230F64R67",
+    "EZR32LG230F64R68",
+    "EZR32LG230F64R69",
+    "EZR32LG330F128R55",
+    "EZR32LG330F128R60",
+    "EZR32LG330F128R61",
+    "EZR32LG330F128R63",
+    "EZR32LG330F128R67",
+    "EZR32LG330F128R68",
+    "EZR32LG330F128R69",
+    "EZR32LG330F256R55",
+    "EZR32LG330F256R60",
+    "EZR32LG330F256R61",
+    "EZR32LG330F256R63",
+    "EZR32LG330F256R67",
+    "EZR32LG330F256R68",
+    "EZR32LG330F256R69",
+    "EZR32LG330F64R55",
+    "EZR32LG330F64R60",
+    "EZR32LG330F64R61",
+    "EZR32LG330F64R63",
+    "EZR32LG330F64R67",
+    "EZR32LG330F64R68"
+   ]
+  },
+  {
+   "path": "EZR32WG/EZR32WG330F64R69.svd",
+   "device": "EZR32WG330F64R69",
+   "family": "EZR32WG",
+   "source": "GeckoPlatform_EZR32WG_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "EZR32WG230F128R55",
+    "EZR32WG230F128R60",
+    "EZR32WG230F128R61",
+    "EZR32WG230F128R63",
+    "EZR32WG230F128R67",
+    "EZR32WG230F128R68",
+    "EZR32WG230F128R69",
+    "EZR32WG230F256R55",
+    "EZR32WG230F256R60",
+    "EZR32WG230F256R61",
+    "EZR32WG230F256R63",
+    "EZR32WG230F256R67",
+    "EZR32WG230F256R68",
+    "EZR32WG230F256R69",
+    "EZR32WG230F64R55",
+    "EZR32WG230F64R60",
+    "EZR32WG230F64R61",
+    "EZR32WG230F64R63",
+    "EZR32WG230F64R67",
+    "EZR32WG230F64R68",
+    "EZR32WG230F64R69",
+    "EZR32WG330F128R55",
+    "EZR32WG330F128R60",
+    "EZR32WG330F128R61",
+    "EZR32WG330F128R63",
+    "EZR32WG330F128R67",
+    "EZR32WG330F128R68",
+    "EZR32WG330F128R69",
+    "EZR32WG330F256R55",
+    "EZR32WG330F256R60",
+    "EZR32WG330F256R61",
+    "EZR32WG330F256R63",
+    "EZR32WG330F256R67",
+    "EZR32WG330F256R68",
+    "EZR32WG330F256R69",
+    "EZR32WG330F64R55",
+    "EZR32WG330F64R60",
+    "EZR32WG330F64R61",
+    "EZR32WG330F64R63",
+    "EZR32WG330F64R67",
+    "EZR32WG330F64R68"
+   ]
+  },
+  {
+   "path": "FGM23/FGM230SA27HGN.svd",
+   "device": "FGM230SA27HGN",
+   "family": "FGM23",
+   "source": "GeckoPlatform_FGM23_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "FGM23/FGM230SB27HGN.svd",
+   "device": "FGM230SB27HGN",
+   "family": "FGM23",
+   "source": "GeckoPlatform_FGM23_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM1/MGM111A256V2.svd",
+   "device": "MGM111A256V2",
+   "family": "MGM1",
+   "source": "GeckoPlatform_MGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM1/MGM111E256V2.svd",
+   "device": "MGM111E256V2",
+   "family": "MGM1",
+   "source": "GeckoPlatform_MGM1_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM12/MGM12P32F1024GE.svd",
+   "device": "MGM12P32F1024GE",
+   "family": "MGM12",
+   "source": "GeckoPlatform_MGM12_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "MGM12P02F1024GA",
+    "MGM12P02F1024GE",
+    "MGM12P22F1024GA",
+    "MGM12P22F1024GE",
+    "MGM12P32F1024GA"
+   ]
+  },
+  {
+   "path": "MGM13/MGM13P12F512GE.svd",
+   "device": "MGM13P12F512GE",
+   "family": "MGM13",
+   "source": "GeckoPlatform_MGM13_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "MGM13P02F512GA",
+    "MGM13P02F512GE",
+    "MGM13P12F512GA"
+   ]
+  },
+  {
+   "path": "MGM13/MGM13S12F512GN.svd",
+   "device": "MGM13S12F512GN",
+   "family": "MGM13",
+   "source": "GeckoPlatform_MGM13_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "MGM13S02F512GA",
+    "MGM13S02F512GN",
+    "MGM13S12F512GA"
+   ]
+  },
+  {
+   "path": "MGM21/MGM210L022JIF.svd",
+   "device": "MGM210L022JIF",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210L022JNF.svd",
+   "device": "MGM210L022JNF",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210LA22JIF.svd",
+   "device": "MGM210LA22JIF",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210LA22JNF.svd",
+   "device": "MGM210LA22JNF",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210P022JIA.svd",
+   "device": "MGM210P022JIA",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210P032JIA.svd",
+   "device": "MGM210P032JIA",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210PA22JIA.svd",
+   "device": "MGM210PA22JIA",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210PA32JIA.svd",
+   "device": "MGM210PA32JIA",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210PB22JIA.svd",
+   "device": "MGM210PB22JIA",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM210PB32JIA.svd",
+   "device": "MGM210PB32JIA",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM21/MGM211LA02JNF.svd",
+   "device": "MGM211LA02JNF",
+   "family": "MGM21",
+   "source": "GeckoPlatform_MGM21_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM22/MGM220PC22HNA.svd",
+   "device": "MGM220PC22HNA",
+   "family": "MGM22",
+   "source": "GeckoPlatform_MGM22_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240L022RNF.svd",
+   "device": "MGM240L022RNF",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240L022VIF.svd",
+   "device": "MGM240L022VIF",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240L022VNF.svd",
+   "device": "MGM240L022VNF",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240LA22UIF.svd",
+   "device": "MGM240LA22UIF",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240LA22VIF.svd",
+   "device": "MGM240LA22VIF",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240LD22VIF.svd",
+   "device": "MGM240LD22VIF",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240PA22VNA.svd",
+   "device": "MGM240PA22VNA",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240PA32VNA.svd",
+   "device": "MGM240PA32VNA",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240PA32VNN.svd",
+   "device": "MGM240PA32VNN",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240PB22VNA.svd",
+   "device": "MGM240PB22VNA",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240PB32VNA.svd",
+   "device": "MGM240PB32VNA",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240PB32VNN.svd",
+   "device": "MGM240PB32VNN",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240SA22VNA.svd",
+   "device": "MGM240SA22VNA",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240SB22VNA.svd",
+   "device": "MGM240SB22VNA",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM24/MGM240SD22VNA.svd",
+   "device": "MGM240SD22VNA",
+   "family": "MGM24",
+   "source": "GeckoPlatform_MGM24_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM26/MGM260PB22VNA.svd",
+   "device": "MGM260PB22VNA",
+   "family": "MGM26",
+   "source": "GeckoPlatform_MGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM26/MGM260PB32VNA.svd",
+   "device": "MGM260PB32VNA",
+   "family": "MGM26",
+   "source": "GeckoPlatform_MGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM26/MGM260PB32VNN.svd",
+   "device": "MGM260PB32VNN",
+   "family": "MGM26",
+   "source": "GeckoPlatform_MGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM26/MGM260PD22VNA.svd",
+   "device": "MGM260PD22VNA",
+   "family": "MGM26",
+   "source": "GeckoPlatform_MGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM26/MGM260PD32VNA.svd",
+   "device": "MGM260PD32VNA",
+   "family": "MGM26",
+   "source": "GeckoPlatform_MGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM26/MGM260PD32VNN.svd",
+   "device": "MGM260PD32VNN",
+   "family": "MGM26",
+   "source": "GeckoPlatform_MGM26_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM27/MGM270SC22SNA.svd",
+   "device": "MGM270SC22SNA",
+   "family": "MGM27",
+   "source": "GeckoPlatform_MGM27_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "MGM27/MGM270SC32SNA.svd",
+   "device": "MGM270SC32SNA",
+   "family": "MGM27",
+   "source": "GeckoPlatform_MGM27_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIBG301/SIBG301M104LGH.svd",
+   "device": "SIBG301M104LGH",
+   "family": "SIBG301",
+   "source": "GeckoPlatform_SIBG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIBG301/SIBG301M104LGL.svd",
+   "device": "SIBG301M104LGL",
+   "family": "SIBG301",
+   "source": "GeckoPlatform_SIBG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIBG301/SIBG301M104LIH.svd",
+   "device": "SIBG301M104LIH",
+   "family": "SIBG301",
+   "source": "GeckoPlatform_SIBG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIBG301/SIBG301M104LIL.svd",
+   "device": "SIBG301M104LIL",
+   "family": "SIBG301",
+   "source": "GeckoPlatform_SIBG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIBG301/SIBG301M114KGH.svd",
+   "device": "SIBG301M114KGH",
+   "family": "SIBG301",
+   "source": "GeckoPlatform_SIBG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIBG301/SIBG301M114KIH.svd",
+   "device": "SIBG301M114KIH",
+   "family": "SIBG301",
+   "source": "GeckoPlatform_SIBG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M103LIH.svd",
+   "device": "SIMG301M103LIH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M104LGH.svd",
+   "device": "SIMG301M104LGH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M104LGL.svd",
+   "device": "SIMG301M104LGL",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M104LIH.svd",
+   "device": "SIMG301M104LIH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M104LIL.svd",
+   "device": "SIMG301M104LIL",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M104XIL.svd",
+   "device": "SIMG301M104XIL",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M113WIH.svd",
+   "device": "SIMG301M113WIH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M114KGH.svd",
+   "device": "SIMG301M114KGH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M114KIH.svd",
+   "device": "SIMG301M114KIH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M114LGH.svd",
+   "device": "SIMG301M114LGH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIMG301/SIMG301M114LIH.svd",
+   "device": "SIMG301M114LIH",
+   "family": "SIMG301",
+   "source": "GeckoPlatform_SIMG301_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIWG917/SIWG917M111MGTBA.svd",
+   "device": "SIWG917M111MGTBA",
+   "family": "SIWG917",
+   "source": "Wiseconnect_SIWG917_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIWG917/SIWG917Y111MGABA.svd",
+   "device": "SIWG917Y111MGABA",
+   "family": "SIWG917",
+   "source": "Wiseconnect_SIWG917_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "SIWG917/SIWG917Y111MGNBA.svd",
+   "device": "SIWG917Y111MGNBA",
+   "family": "SIWG917",
+   "source": "Wiseconnect_SIWG917_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "WGM160/WGM160P022KGA3.svd",
+   "device": "WGM160P022KGA3",
+   "family": "WGM160",
+   "source": "GeckoPlatform_WGM160_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "WGM160P022KGA2"
+   ]
+  },
+  {
+   "path": "WGM160/WGM160P022KGN3.svd",
+   "device": "WGM160P022KGN3",
+   "family": "WGM160",
+   "source": "GeckoPlatform_WGM160_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "WGM160P022KGN2"
+   ]
+  },
+  {
+   "path": "WGM160/WGM160PX22KGA3.svd",
+   "device": "WGM160PX22KGA3",
+   "family": "WGM160",
+   "source": "GeckoPlatform_WGM160_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "WGM160PX22KGA2"
+   ]
+  },
+  {
+   "path": "WGM160/WGM160PX22KGN3.svd",
+   "device": "WGM160PX22KGN3",
+   "family": "WGM160",
+   "source": "GeckoPlatform_WGM160_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "WGM160PX22KGN2"
+   ]
+  },
+  {
+   "path": "ZGM13/ZGM130S037HGN1.svd",
+   "device": "ZGM130S037HGN1",
+   "family": "ZGM13",
+   "source": "GeckoPlatform_ZGM13_DFP",
+   "provenance": "pristine",
+   "also_covers": [
+    "ZGM130S037HGN"
+   ]
+  },
+  {
+   "path": "ZGM23/ZGM230SA27HGN.svd",
+   "device": "ZGM230SA27HGN",
+   "family": "ZGM23",
+   "source": "GeckoPlatform_ZGM23_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "ZGM23/ZGM230SA27HNN.svd",
+   "device": "ZGM230SA27HNN",
+   "family": "ZGM23",
+   "source": "GeckoPlatform_ZGM23_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "ZGM23/ZGM230SB27HGN.svd",
+   "device": "ZGM230SB27HGN",
+   "family": "ZGM23",
+   "source": "GeckoPlatform_ZGM23_DFP",
+   "provenance": "pristine"
+  },
+  {
+   "path": "ZGM23/ZGM230SB27HNN.svd",
+   "device": "ZGM230SB27HNN",
+   "family": "ZGM23",
+   "source": "GeckoPlatform_ZGM23_DFP",
+   "provenance": "pristine"
+  }
+ ],
+ "stats": {
+  "total_files": 189,
+  "total_bytes": 958757653
+ }
+}
